@@ -1,0 +1,26 @@
+img{
+    width: 200px;
+    height: 200px;
+    border: solid 4px red;
+}
+h1{
+    text-align: center;
+    border: solid 4px red;
+}
+button{
+    background-color:gold;
+    font-weight: bold;
+    width: 200px;
+    padding: 20px;
+    margin: 15px 15px 15px 15px;
+}
+div{
+    border: solid red;
+}
+p{
+    border: solid 3px red;
+    border-radius: 0 0 100px 100px;
+    height: 60px;
+    text-align: center;
+    padding: 5px;
+}
