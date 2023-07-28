@@ -2,6 +2,7 @@ img{
     width: 200px;
     height: 200px;
     border: solid 4px red;
+    border-radius: 50px ;
 }
 h1{
     text-align: center;
