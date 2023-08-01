@@ -1,0 +1,30 @@
+#a1{
+    margin-left: 90px;
+    margin-right:90px;
+}
+#a2{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+hr{
+    border: solid 1px;
+}
+.general {
+    margin-left: 
+   90px
+   ;
+    margin-right: 
+   90px
+   ;
+   }
+   
+   .lieutenantGeneral {
+    margin-left: 30px;
+    margin-right: 30px;
+   }
+   
+   p {
+    text-align: center;
+    background-color: lightblue;
+    border: 1px solid black;
+   }
