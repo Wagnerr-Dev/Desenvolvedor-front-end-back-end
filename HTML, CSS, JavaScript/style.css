@@ -16,6 +16,7 @@ div{
 img{
     border: solid rebeccapurple;
     border-radius: 10px;
+    margin-left: 100px;
 }
 #rick{
    margin: 1px 1px 1px 1px;
