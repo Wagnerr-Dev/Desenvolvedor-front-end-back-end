@@ -1,0 +1,17 @@
+ div{
+    border: solid blue 2px;
+    width: 500px;
+    height: 500px;
+    background-color: blueviolet;
+    border-radius: 50px;
+ }
+ input{
+    text-align: center;
+    margin: 10px 159px;
+    color: blueviolet;
+ }
+ h1{
+    margin-top: 80px;
+    text-align: center;
+    color:wheat;
+ }
